@@ -1,88 +1,79 @@
 <div align="center">
-<img src="banner.png" alt="Treeal Developer Community" width="100%">
-
-# TREEAL Developer Community
-
-### Connect. Code. Innovate.
-
-**Building the future of financial technology.**
-
-[![Website](https://img.shields.io/badge/Website-TREEAL-064532?style=for-the-badge)](https://treeal.com)
-![Fintech](https://img.shields.io/badge/FINTECH-064532?style=for-the-badge)
-![API](https://img.shields.io/badge/API%20FIRST-168F48?style=for-the-badge)
-![Community](https://img.shields.io/badge/DEVELOPERS-FFDF00?style=for-the-badge&logoColor=black)
-
+  <a href="https://treeal.com"><img src="banner.png" width="100%" alt="Treeal Developer Community — Connect. Code. Innovate."></a>
+  <p><strong>Building the future of financial technology.</strong></p>
+  <a href="https://treeal.com"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-TREEAL-064532?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://github.com/orgs/Treeal-Developer-Community/repositories"><img alt="Repositories" src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-064532?style=for-the-badge&logo=github"></a>
+  <a href="https://instagram.com/treealoficial"><img alt="Instagram" src="https://img.shields.io/badge/CONNECT-INSTAGRAM-FFDF00?style=for-the-badge&logo=instagram&logoColor=064532"></a>
 </div>
-
----
 
 ## 👋 Hello, Developers!
 
-Bem-vindo à **Treeal Developer Community**, um espaço para conectar pessoas apaixonadas por programação, tecnologia e inovação financeira.
+Somos a **Treeal Developer Community**, um espaço para conectar quem desenvolve, integra e transforma o mercado financeiro por meio da tecnologia.
 
-A Treeal oferece infraestrutura financeira para empresas, com soluções integradas de pagamentos, serviços bancários e identidade digital, orientadas à performance, escala e controle operacional.
+Na Treeal, unimos infraestrutura financeira, performance e inovação para simplificar operações e impulsionar negócios com liberdade e autonomia.
 
-Queremos aproximar desenvolvedores, arquitetos de software, engenheiros e entusiastas da tecnologia para compartilhar conhecimento e explorar novas possibilidades no mercado financeiro.
-
-## 🚀 Nosso ecossistema
-
-| Solução | O que possibilita |
-| :--- | :--- |
-| ⚡ **API Pix** | Integração de pagamentos instantâneos em aplicações e plataformas. |
-| 🏦 **Banking as a Service (BaaS)** | Serviços financeiros e contas digitais com a identidade da empresa. |
-| 🔗 **Open Finance** | Jornadas financeiras conectadas mediante consentimento. |
-| 🔄 **Pix Recorrente** | Automação de cobranças periódicas. |
-| 🖐️ **PalmBio by Treeal** | Biometria palmar para identidade, acesso e pagamentos sem contato. |
-| 💳 **UnionPay** | Soluções de emissão de cartões com alcance internacional. |
-| 🛒 **Subadquirência** | Integração de pagamentos por cartão e Pix. |
-| 📦 **CIOT** | Emissão do Código Identificador da Operação de Transporte. |
-| 🌐 **Infoprodutos e Checkout** | Soluções para vendas digitais e jornadas de pagamento. |
-| 💰 **ParcelaÊ** | Soluções de parcelamento via Pix. |
-
-Conheça os produtos no [site oficial da Treeal](https://treeal.com).
+<div align="center">
+  <img src="https://img.shields.io/badge/FINTECH-064532?style=flat-square" alt="Fintech">
+  <img src="https://img.shields.io/badge/API%20FIRST-168F48?style=flat-square" alt="API First">
+  <img src="https://img.shields.io/badge/INNOVATION-FFDF00?style=flat-square&labelColor=064532" alt="Innovation">
+</div>
 
 ## 💻 Developer Hub
 
-Nossa proposta é construir um ponto de encontro para explorar:
+<table width="100%">
+<tr>
+<td width="50%" valign="top"><h3>🔌 APIs &amp; Integrations</h3><p>Conecte aplicações e serviços financeiros.</p></td>
+<td width="50%" valign="top"><h3>📦 SDKs &amp; Libraries</h3><p>Ferramentas e bibliotecas para desenvolvimento.</p></td>
+</tr>
+<tr>
+<td valign="top"><h3>💻 Code Samples</h3><p>Exemplos práticos e referências de implementação.</p></td>
+<td valign="top"><h3>📚 Documentation</h3><p>Guias, arquitetura e conhecimento técnico.</p></td>
+</tr>
+<tr>
+<td valign="top"><h3>🧪 Labs &amp; Innovation</h3><p>Experimentação, protótipos e novas ideias.</p></td>
+<td valign="top"><h3>🔐 Security &amp; Compliance</h3><p>Boas práticas de segurança e privacidade.</p></td>
+</tr>
+</table>
 
-- **APIs & Integrations** — integração entre sistemas e serviços financeiros.
-- **SDKs & Libraries** — ferramentas e bibliotecas para desenvolvimento.
-- **Code Samples** — exemplos práticos e referências de implementação.
-- **Technical Documentation** — guias e conhecimento técnico.
-- **Labs & Innovation** — experimentação, protótipos e novas ideias.
-- **Security & Compliance** — boas práticas de segurança e privacidade.
+<div align="center">
+  <a href="https://github.com/orgs/Treeal-Developer-Community/repositories"><img src="https://img.shields.io/badge/EXPLORAR%20REPOSIT%C3%93RIOS-064532?style=for-the-badge&logo=github" alt="Explorar repositorios"></a>
+</div>
 
-Os materiais serão disponibilizados nos repositórios da comunidade conforme sua publicação.
+Os materiais serão disponibilizados conforme sua publicação.
+
+## 🚀 Financial Technology Ecosystem
+
+<table width="100%">
+<tr><td width="50%" valign="top"><h3>⚡ API Pix</h3><p>Pagamentos instantâneos em aplicações e plataformas.</p></td><td width="50%" valign="top"><h3>🏦 Banking as a Service</h3><p>Serviços financeiros e contas digitais sob sua marca.</p></td></tr>
+<tr><td valign="top"><h3>🔗 Open Finance</h3><p>Jornadas financeiras conectadas mediante consentimento.</p></td><td valign="top"><h3>🔄 Pix Recorrente</h3><p>Automação de cobranças periódicas.</p></td></tr>
+<tr><td valign="top"><h3>🖐️ PalmBio by Treeal</h3><p>Biometria palmar para identidade, acesso e pagamentos sem contato.</p></td><td valign="top"><h3>💳 UnionPay</h3><p>Emissão de cartões com alcance internacional.</p></td></tr>
+<tr><td valign="top"><h3>🛒 Subadquirência</h3><p>Integração de pagamentos por cartão e Pix.</p></td><td valign="top"><h3>📦 CIOT</h3><p>Emissão do Código Identificador da Operação de Transporte.</p></td></tr>
+<tr><td valign="top"><h3>🌐 Infoprodutos e Checkout</h3><p>Vendas digitais e jornadas de pagamento.</p></td><td valign="top"><h3>💰 ParcelaÊ</h3><p>Parcelamento via Pix.</p></td></tr>
+</table>
+
+<div align="center">
+<a href="https://treeal.com"><img src="https://img.shields.io/badge/CONHE%C3%87A%20NOSSAS%20SOLU%C3%87%C3%95ES-FFDF00?style=for-the-badge&logoColor=064532" alt="Conheca nossas solucoes"></a>
+</div>
 
 ## 🤝 Let's build together!
 
-Acreditamos que a inovação acontece quando pessoas compartilham conhecimento, experiências e ideias.
+**Conecte-se. Compartilhe conhecimento. Transforme ideias em código.**
 
-- Explore os repositórios da organização.
-- Compartilhe ideias e experiências técnicas.
-- Participe das discussões quando habilitadas.
-- Sugira melhorias e contribua com os projetos conforme suas diretrizes.
+Explore os repositórios, sugira melhorias e participe das discussões quando habilitadas, respeitando as diretrizes de cada projeto.
 
-Nunca publique credenciais, tokens, chaves de API ou dados financeiros reais nos repositórios, issues ou exemplos de código.
-
-## 🌐 Connect with Treeal
-
-- [Website oficial](https://treeal.com)
-- [Instagram](https://instagram.com/treealoficial)
+> [!IMPORTANT]
+> Nunca publique credenciais, tokens, chaves de API ou dados financeiros reais.
 
 ---
 
-<div align="center">
-
-```text
+```console
 $ treeal init --community
 > Connecting developers...
 > Loading financial technologies...
 > Ready to build the future!
 ```
 
-**Built for developers. Powered by Treeal.**
-
-💚 TREEAL Developer Community
-
+<div align="center">
+  <strong>Built for developers. Powered by Treeal.</strong>
+  <p>💚 <a href="https://treeal.com">TREEAL</a> · Developer Community</p>
 </div>
