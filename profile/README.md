@@ -1,5 +1,5 @@
 <div align="center">
-<img src="../assets/banner.png" alt="Treeal Developer Community" width="100%">
+<img src="banner.png" alt="Treeal Developer Community" width="100%">
 
 # TREEAL Developer Community
 
